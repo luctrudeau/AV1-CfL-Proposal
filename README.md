@@ -1,4 +1,4 @@
-# Chroma from Luma proposal for the AV1 codec
+# Chroma from Luma (CfL) proposal for the AV1 codec
 
 ## [Click here to view the notebook](https://nbviewer.jupyter.org/github/luctrudeau/AV1-CfL-Proposal/blob/master/Chroma%20from%20Luma%20%28CfL%29.ipynb)
 
